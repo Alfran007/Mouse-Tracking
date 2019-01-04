@@ -1,0 +1,48 @@
+Sharing some links of deep learning with computer vision and some good live projects. Please go through,
+
+https://towardsdatascience.com/diy-deep-learning-projects-c2e0fac3274f
+
+Youtube tutes link of:
+
+NLP & Deep Learning: https://www.youtube.com/watch?v=CS4cs9xVecg&list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0
+
+CNN & Deep Learning: https://www.youtube.com/watch?v=ArPaAX_PhIs&list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF
+
+Go through these papers : Computer Vision+ Deep Learning+ Image Recognition+ Gesture Recognition + Object Detection
+
+https://ieeexplore.ieee.org/document/7298968/
+https://ieeexplore.ieee.org/document/7979332/
+https://ieeexplore.ieee.org/document/7960069/
+https://ieeexplore.ieee.org/document/8248284/
+https://ieeexplore.ieee.org/document/8275745/
+https://ieeexplore.ieee.org/document/7760071/
+https://ieeexplore.ieee.org/document/7960615/
+https://ieeexplore.ieee.org/document/8297020/
+https://ieeexplore.ieee.org/document/8368821/
+https://ieeexplore.ieee.org/document/7018034/
+https://ieeexplore.ieee.org/document/6389683/
+https://ieeexplore.ieee.org/document/7983055/
+https://ieeexplore.ieee.org/document/8404530/
+https://ieeexplore.ieee.org/document/7433775/
+https://ieeexplore.ieee.org/document/7103729/
+https://ieeexplore.ieee.org/document/8269910/
+https://ieeexplore.ieee.org/document/8250222/
+https://ieeexplore.ieee.org/document/8336635/
+https://ieeexplore.ieee.org/document/7351206/
+https://ieeexplore.ieee.org/document/7977207/
+https://ieeexplore.ieee.org/search/searchresult.jsp?queryText=deep%20learning%20%20computer%20vision&newsearch=true
+
+https://www.youtube.com/watch?v=SKXk6uB8348
+
+Good Stuff
+
+https://github.com/ZidanMusk/experimenting-with-sort
+
+https://www.youtube.com/watch?v=ohCTuswp7qA
+
+https://www.youtube.com/watch?v=QtOQmbo3IsY
+
+
+Game car control : https://youtu.be/Y6oLbRKwmPk
+
+https://www.irjet.net/archives/V2/i8/IRJET-V2I8229.pdf
